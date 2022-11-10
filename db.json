@@ -36,11 +36,11 @@
       "quadrant": "NQ2"
     },
     {
-      "id": "UPtAzfV",
       "name": "Hydrus",
       "meaning": "Water Snake",
       "starsWithPlanets": 5,
-      "quadrant": "SQ1"
+      "quadrant": "SQ1",
+      "id": "UPtAzfV"
     },
     {
       "id": "ISlkF4G",
@@ -97,6 +97,20 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
+      "starsWithPlanets": 7,
+      "quadrant": "SQ3",
+      "id": "FvCyNRP"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
+      "starsWithPlanets": 7,
+      "quadrant": "SQ3",
+      "id": "FkM2QID"
     }
   ]
 }
